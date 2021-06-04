@@ -4,8 +4,8 @@ This is a learning purpose project for laravel developers.There are some feature
 <img src="Features.jpg"> 
 
    #### Feathers List
-  -Multilevel Auth System
-  -Blog apps with all blog feathers
-  -eCommerce Features system with Cart management, Order system,Customer management etc.
-  -Page development - Home page,Contact Us page,Pricing page etc.
+     -Multilevel Auth System
+     -Blog apps with all blog feathers
+     -eCommerce Features system with Cart management, Order system,Customer management etc.
+     -Page development - Home page,Contact Us page,Pricing page etc.
   
