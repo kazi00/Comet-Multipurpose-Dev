@@ -3,7 +3,7 @@ This is a learning purpose project for laravel developers.There are some feature
 
 <img src="Features.jpg"> 
 
-   #### Feathers List
+   #### Features List
      -Multilevel Auth System
      -Blog apps with all blog feathers
      -eCommerce Features system with Cart management, Order system,Customer management etc.
